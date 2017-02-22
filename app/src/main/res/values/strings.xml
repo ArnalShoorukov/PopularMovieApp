@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">PopularMoviesApp</string>
+
+
+
+    <string name="title">Title : </string>
+    <string name="overview">Overview:  </string>
+    <string name="publishedDate">Release Date : </string>
+    <string name="vote">User Rating : </string>
+
+    <!-- Error message when there is no internet connectivity [CHAR LIMIT=NONE] -->
+    <string name="no_internet_connection">No internet connection.</string>
+
+    <!-- Text to display in the list when there are no news [CHAR LIMIT=NONE] -->
+    <string name="no_news">No movies found.</string>
+
+    <!-- Strings for sort_by preference settings: default is sort by most popular -->
+    <string name="settings_sort_by_label">Sort By</string>
+    <string name="settings_sort_by_key" translatable="false">sort_by</string>
+    <string name="settings_sort_by_default" translatable="false">@string/settings_sort_by_most_popular_label</string>
+
+    <string name="default_sort">top_rated</string>
+
+    <!-- Strings for sort_by highest rating option  -->
+    <string name="settings_sort_by_highest_rating_label">Highest rating</string>
+    <string name="settings_sort_by_highest_rating_value" translatable="false">top_rated?</string>
+
+    <!-- Strings for sort_by most popular option  -->
+    <string name="settings_sort_by_most_popular_label">popular?</string>
+    <string name="settings_sort_by_most_popular_value" translatable="false">popular?</string>
+
+    <!--for preferences-->
+    <!-- Settings Menu Item -->
+    <string name="main_menu_settings">Sort By</string>
+    <!--Main menu sort by top rated movies action -->
+    <string name="main_menu_action_top_rated">Top rated</string>
+    <!--Main menu sort by most popular movies action -->
+    <string name="main_menu_action_popular">popular</string>
+
+    <string name="main_menu_action__most_popular">Most popular</string>
+
+
+</resources>
