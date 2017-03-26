@@ -11,8 +11,8 @@
     <!-- Error message when there is no internet connectivity [CHAR LIMIT=NONE] -->
     <string name="no_internet_connection">No internet connection.</string>
 
-    <!-- Text to display in the list when there are no news [CHAR LIMIT=NONE] -->
-    <string name="no_news">No movies found.</string>
+    <!-- Text to display in the list when there are no movies [CHAR LIMIT=NONE] -->
+    <string name="no_movies">No movies found.</string>
 
     <!-- Strings for sort_by preference settings: default is sort by most popular -->
     <string name="settings_sort_by_label">Sort By</string>

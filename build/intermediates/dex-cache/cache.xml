@@ -3,129 +3,174 @@
 
     <item
         is-multidex="true"
+        jar="/home/arnal/AndroidStudioProjects/Project 2/PopularMoviesApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="/home/arnal/AndroidStudioProjects/Project 2/PopularMoviesApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.3.0_9610bc3983336dc7125725bf13e4cf22fdca7a9a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/arnal/AndroidStudioProjects/Project 2/PopularMoviesApp/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="/home/arnal/AndroidStudioProjects/Project 2/PopularMoviesApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.3.0_9e513dfdecc409658398723316297ba1c1368e16/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/arnal/AndroidStudioProjects/Project 2/PopularMoviesApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="/home/arnal/AndroidStudioProjects/Project 2/PopularMoviesApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.3.0_5b262d4ee157b0d4c3d7dfb1f9487ace7acb659f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/arnal/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.0/support-annotations-25.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="/home/arnal/AndroidStudioProjects/Project 2/PopularMoviesApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.0_852b774b71fe5ca64884135161c3865b07ba7d4b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/arnal/AndroidStudioProjects/Project 2/PopularMoviesApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa6da4725ed8364085fb480d6aa31eaed3c9aa80">
+        <dex dex="/home/arnal/AndroidStudioProjects/Project 2/PopularMoviesApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_29dd56a7404e7e8bbb276ef24209b48c1fd9f4ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/arnal/AndroidStudioProjects/Project 2/PopularMoviesApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/arnal/AndroidStudioProjects/Project 2/PopularMoviesApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.3.0_073bd0561cc7a609277a7cd2b1300574410aa8a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/arnal/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/home/arnal/AndroidStudioProjects/Project 2/PopularMoviesApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.1.0_29eae2bacbaef09f62efbea9138514df8e6ab7b6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/arnal/AndroidStudioProjects/Project 2/PopularMoviesApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="/home/arnal/AndroidStudioProjects/Project 2/PopularMoviesApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.3.0_bc70fbc942236da1b3283ed0378f1784bd4084c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/arnal/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/home/arnal/AndroidStudioProjects/Project 2/PopularMoviesApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.8.0_11be7177c895f450b1b30ab848075ad914f80a36/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/home/arnal/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
-        <dex dex="/home/arnal/AndroidStudioProjects/SunShine/PopularMoviesApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_a196a42528e6e399aa5e767357d16765ffd1cb58/classes.dex" />
+        <dex dex="/home/arnal/AndroidStudioProjects/Project 2/PopularMoviesApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_a196a42528e6e399aa5e767357d16765ffd1cb58/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/arnal/AndroidStudioProjects/SunShine/PopularMoviesApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jar="/home/arnal/AndroidStudioProjects/Project 2/PopularMoviesApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
-        <dex dex="/home/arnal/AndroidStudioProjects/SunShine/PopularMoviesApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.1_8f202f71fc0ab751b7779998fdac91a1b1984c14/classes.dex" />
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="/home/arnal/AndroidStudioProjects/Project 2/PopularMoviesApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.3.0_b0f53b8a6b866795369205b5b2a58c8becbd0595/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/arnal/AndroidStudioProjects/SunShine/PopularMoviesApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jar="/home/arnal/AndroidStudioProjects/Project 2/PopularMoviesApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/home/arnal/AndroidStudioProjects/SunShine/PopularMoviesApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_2ac68f541636374d299a8ce5c6a4762271825291/classes.dex" />
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="/home/arnal/AndroidStudioProjects/Project 2/PopularMoviesApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.3.0_d202b3ca329d0cad5145cc8f98408a9eb313f902/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/arnal/AndroidStudioProjects/SunShine/PopularMoviesApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jar="/home/arnal/AndroidStudioProjects/Project 2/PopularMoviesApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
-        <dex dex="/home/arnal/AndroidStudioProjects/SunShine/PopularMoviesApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.1_a19f9c9c5000b71986132c00ee0d9aa7948f77b4/classes.dex" />
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="/home/arnal/AndroidStudioProjects/Project 2/PopularMoviesApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.3.0_c3d7c1252d743e847bf4b662ab5d63dedd1c4f5f/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/arnal/AndroidStudioProjects/SunShine/PopularMoviesApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jar="/home/arnal/AndroidStudioProjects/Project 2/PopularMoviesApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
-        <dex dex="/home/arnal/AndroidStudioProjects/SunShine/PopularMoviesApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.1_e8af21203effaf00f46cdbd8ad5d03abacf75376/classes.dex" />
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="/home/arnal/AndroidStudioProjects/Project 2/PopularMoviesApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.3.0_e2e0a5d7ceb44d31d61b3efb6fc8172463b3094c/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/arnal/AndroidStudioProjects/SunShine/PopularMoviesApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jar="/home/arnal/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="404d1f441e4c3cbbd17eaf68a164b2ba47700bca">
-        <dex dex="/home/arnal/AndroidStudioProjects/SunShine/PopularMoviesApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ceb6bfc5988232fbd1b8458874f6606944156671/classes.dex" />
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/home/arnal/AndroidStudioProjects/Project 2/PopularMoviesApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_7951484d5485d439f295849d5a86afed33bea169/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/arnal/AndroidStudioProjects/SunShine/PopularMoviesApp/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.1/jars/classes.jar"
+        jar="/home/arnal/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
-        <dex dex="/home/arnal/AndroidStudioProjects/SunShine/PopularMoviesApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.1.1_a9d6e2fb8c80373dda0fdc6cf8a15bc4c03d6871/classes.dex" />
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/home/arnal/AndroidStudioProjects/Project 2/PopularMoviesApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.1.0_d74161f7709b16a956aed263f205aa5e28bbd3e9/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/arnal/AndroidStudioProjects/SunShine/PopularMoviesApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jar="/home/arnal/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.0/2b802460eea20f8f2ad9c08c74e0f14718e88aa9/okhttp-3.3.0.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
-        <dex dex="/home/arnal/AndroidStudioProjects/SunShine/PopularMoviesApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.1_0299a13e625f8cc15ffdfa314c3e5ecb13ec03ca/classes.dex" />
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="/home/arnal/AndroidStudioProjects/Project 2/PopularMoviesApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.3.0_69546911c0da8a2da5357d00eddac1b454d8c9ae/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/arnal/AndroidStudioProjects/SunShine/PopularMoviesApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jar="/home/arnal/AndroidStudioProjects/Project 2/PopularMoviesApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
-        <dex dex="/home/arnal/AndroidStudioProjects/SunShine/PopularMoviesApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.1_feedaee52e446a3dff438545039ab47efa8eda95/classes.dex" />
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="/home/arnal/AndroidStudioProjects/Project 2/PopularMoviesApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.3.0_2bdc286c3a88b4d4b5c7718400fcc4482036b3e3/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/arnal/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jar="/home/arnal/AndroidStudioProjects/Project 2/PopularMoviesApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
-        <dex dex="/home/arnal/AndroidStudioProjects/SunShine/PopularMoviesApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_798c658ffa1043954333527cfb2c6b2e41ab6853/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/arnal/AndroidStudioProjects/SunShine/PopularMoviesApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
-        <dex dex="/home/arnal/AndroidStudioProjects/SunShine/PopularMoviesApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.1_15f04950c1d71faa2ce6c4c9c4e596d15b4dcd1b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/arnal/AndroidStudioProjects/SunShine/PopularMoviesApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
-        <dex dex="/home/arnal/AndroidStudioProjects/SunShine/PopularMoviesApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.1_b19e310ca3b1c7f3ed2f6acbbc708366ec451c67/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/arnal/AndroidStudioProjects/SunShine/PopularMoviesApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
-        <dex dex="/home/arnal/AndroidStudioProjects/SunShine/PopularMoviesApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.1_b37f57a86630b49374014d754d1773719a807e47/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/arnal/AndroidStudioProjects/SunShine/PopularMoviesApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="3d747e48503f8c564158b7a68dd7ae9c822decd6">
-        <dex dex="/home/arnal/AndroidStudioProjects/SunShine/PopularMoviesApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_407df6ea46d50f63252129dbd8968754c2658454/classes.dex" />
+        sha1="a4d703f17d2b3f0c6d15f7ab635c3327035ea65a">
+        <dex dex="/home/arnal/AndroidStudioProjects/Project 2/PopularMoviesApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7884da0fb0f6dbe23cc66ee0618875ef74db870c/classes.dex" />
     </item>
 
 </items>

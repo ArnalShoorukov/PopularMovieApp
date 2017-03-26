@@ -19,6 +19,11 @@ import android.widget.AdapterView;
 import android.widget.GridView;
 import android.widget.TextView;
 
+import com.example.arnal.popularmoviesapp.Adapter.MovieAdapter;
+import com.example.arnal.popularmoviesapp.Loader.MovieLoader;
+import com.example.arnal.popularmoviesapp.Model.Movies;
+import com.example.arnal.popularmoviesapp.Model.Trailer;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -33,12 +38,13 @@ public class MainActivity extends AppCompatActivity implements LoaderManager.Loa
     private static final int SORT_ORDER_POPULAR = 0;
     private static final int SORT_ORDER_TOP_RATED = 1;
     private static String SORT_ORDER;
-    final String apiKey = "My API";
+    final String apiKey = "api_key";
     private final String POPULARITY_URL =
             "http://api.themoviedb.org/3/movie/popular?api_key=";
     private final String HIGHEST_RATED_URL =
             "http://api.themoviedb.org/3/movie/top_rated?api_key=";
-    ArrayList<Movies> mMovieAdapter;
+    private String ID;
+
     SharedPreferences sharedPrefs;
     /*ListView global variable*/
     private GridView movieListView;
@@ -107,10 +113,11 @@ public class MainActivity extends AppCompatActivity implements LoaderManager.Loa
         SORT_ORDER = sharedPrefs.getString(
                 getString(R.string.settings_sort_by_default),
                 getString(R.string.main_menu_action_popular));
-        mMovieAdapter = new ArrayList<Movies>();
+
 
         movieListView = (GridView) findViewById(R.id.list);
-        // Create a new {@link ArrayAdapter} of news
+
+        // Create a new {@link ArrayAdapter} of movies
         mAdapter = new MovieAdapter(this, new ArrayList<Movies>());
         movieListView.setAdapter(mAdapter);
         mEmptyStateTextView = (TextView) findViewById(R.id.text);
@@ -170,6 +177,7 @@ public class MainActivity extends AppCompatActivity implements LoaderManager.Loa
         Uri.Builder builder = new Uri.Builder();
         builder.scheme("http");
         builder.authority("api.themoviedb.org");
+//        builder.appendEncodedPath("3/movie/" + SORT_ORDER);
         builder.appendEncodedPath("3/movie/" + SORT_ORDER);
         builder.appendQueryParameter("api_key", apiKey);
         Log.v("TEST", "TEST" + builder.toString());
@@ -193,7 +201,7 @@ public class MainActivity extends AppCompatActivity implements LoaderManager.Loa
         loadingIndicator.setVisibility(View.GONE);
 
         // Set empty state text to display "No books found."
-        mEmptyStateTextView.setText(R.string.no_news);
+        mEmptyStateTextView.setText(R.string.no_movies);
 
         // Clear the adapter of previous book data
         mAdapter.clear();

@@ -118,6 +118,10 @@
                 tools:text="2011-02-22" />
         </LinearLayout>
 
+        <TextView
+            android:id="@+id/id_movie"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
 
     </LinearLayout>
 </ScrollView>
